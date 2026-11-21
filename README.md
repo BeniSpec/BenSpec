@@ -84,3 +84,13 @@ open to     data / app internships · collaboration · mentoring
 | 🟣 In progress | BSc Computer Science | Albukhary International University |
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeniSpec/BeniSpec/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeniSpec/BeniSpec/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/BeniSpec/BeniSpec/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
