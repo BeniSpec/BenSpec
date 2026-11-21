@@ -1,45 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="Benat Siraj Ahmed, Computer Science Student, Data Analytics, Data Science, Data & AI-Driven Full-Stack Mobile App Developer">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/>
-    </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#1c1830" stroke-width="1"/>
-    </pattern>
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
-  </defs>
-  <style>
-    text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
-    .l{opacity:0;animation:in .7s ease forwards}
-    .d1{animation-delay:.2s}.d2{animation-delay:.8s}.d3{animation-delay:1.4s}.d4{animation-delay:2s}.d5{animation-delay:2.6s}
-    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-    .cur{animation:blink 1s steps(1) infinite}
-    @keyframes blink{50%{opacity:0}}
-    .dot{animation:pulse 2s ease-in-out infinite}
-    @keyframes pulse{50%{opacity:.3}}
-  </style>
 
-  <rect width="900" height="280" rx="16" fill="#0b0a12"/>
-  <rect width="900" height="280" rx="16" fill="url(#grid)"/>
-  <circle cx="130" cy="40" r="90" fill="#a855f7" opacity=".28" filter="url(#blur)"/>
-  <circle cx="800" cy="260" r="100" fill="#ec4899" opacity=".22" filter="url(#blur)"/>
-  <text x="868" y="205" text-anchor="end" font-size="120" font-weight="800" fill="#a855f7" opacity=".10">&lt;/&gt;</text>
+<!--
+ HOW TO EDIT THIS PROFILE
+ 1. Search this file for personal details you want to update.
+ 2. The visual cards live in the assets folder. Open any .svg and change its text.
+ 3. Colours: #a855f7 purple, #ec4899 pink, #34d399 green, #0b0a12 background.
+ 4. Each section is separate, so you can delete or reorder one at a time.
+-->
 
-  <!-- window bar -->
-  <rect x="1" y="1" width="898" height="36" rx="15" fill="#13111f"/>
-  <rect x="1" y="22" width="898" height="15" fill="#13111f"/>
-  <line x1="1" y1="37" x2="899" y2="37" stroke="#2e2845"/>
-  <circle cx="26" cy="19" r="6" fill="#ec4899"/><circle cx="46" cy="19" r="6" fill="#a855f7"/><circle cx="66" cy="19" r="6" fill="#34d399"/>
-  <text x="450" y="24" text-anchor="middle" font-size="13" fill="#9d8fc0">benat@aiu: ~/portfolio</text>
+<p align="center">
+  <img src="assets/header.svg" alt="Benat Siraj Ahmed: Computer Science Student, Data Analytics, Data Science, Data & AI-Driven Full-Stack Mobile App Developer" width="100%" />
+</p>
 
-  <!-- content -->
-  <text class="l d1" x="40" y="86" font-size="18"><tspan fill="#34d399">$</tspan><tspan fill="#f0ecff"> whoami</tspan></text>
-  <text class="l d2" x="40" y="146" font-size="46" font-weight="800" letter-spacing="2" fill="url(#g)">BENAT SIRAJ AHMED</text>
-  <text class="l d3" x="40" y="182" font-size="20" fill="#f0ecff">Computer Science Student  ·  Albukhary International University</text>
-  <text class="l d4" x="40" y="212" font-size="17" fill="#c084fc">Data Analytics  |  Data Science</text>
-  <text class="l d4" x="40" y="237" font-size="17" fill="#c084fc">Data &amp; AI-Driven Full-Stack Mobile App Developer</text>
-  <g class="l d5">
-    <circle class="dot" cx="46" cy="261" r="5" fill="#34d399"/>
-    <text x="60" y="266" font-size="15" fill="#34d399">open to internships &amp; collaboration<tspan class="cur"> ▌</tspan></text>
-  </g>
-</svg>
+<p align="center">
+  <a href="https://github.com/BeniSpec/BenSpec_ProfessionalPortfolio_1"><img src="https://img.shields.io/badge/PORTFOLIO-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/benat-siraj-ahmed"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:benatsiraj83@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/beni_au1/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<p align="center">
+  <img src="assets/profile-scan.svg" alt="Profile scan: Benat Siraj Ahmed, BeniSpec" width="100%" />
+</p>
+
+<h2 align="center">💡 About Me</h2>
+
+<p align="center">
+I turn raw data into decisions, and decisions into mobile apps people actually use.<br/>
+I'm a Computer Science student who enjoys the full data-to-product journey:<br/>
+collecting and cleaning data, analysing it, building models, and shipping them inside real applications.
+</p>
+
+```text
+$ cat now.txt
+
+building    FingerBlood · an explainable-AI mobile app (Flutter + FastAPI + OpenCV + Grad-CAM)
+interning   Online Internships · CodeAlpha & DecodeLabs
+learning    Power BI dashboards · SQL optimisation · ML deployment
+open to     data / app internships · collaboration · mentoring
+```
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🎯 What I Focus On</h2>
+
+<p align="center">
+  <img src="assets/focus.svg" alt="Focus areas: Data Analytics, Data Science and XAI, Mobile and Full Stack" width="100%" />
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<!-- EDIT: keep only the icons for tools you can discuss in an interview -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,opencv,jupyter,powerbi&theme=dark&perline=7" alt="Data and AI tools" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,postgres,mysql,java,html,css,js&theme=dark&perline=9" alt="App and backend tools" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark&perline=5" alt="Developer tools" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<!-- EDIT: Replace the retail sales and FingerBlood links with their exact repository URLs when available. -->
+<p align="center">
+  <a href="https://github.com/BeniSpec/astrabivo-transit"><img src="assets/project-astrabivo-transit.svg" alt="astrabivo-transit" width="49%" /></a>
+  <a href="https://github.com/BeniSpec/nyc311-operations-analysis"><img src="assets/project-nyc311-operations.svg" alt="nyc311-operations-analysis" width="49%" /></a>
+  <a href="https://github.com/BeniSpec?tab=repositories&q=retail-sales"><img src="assets/project-retail-sales.svg" alt="retail-sales-analytics" width="49%" /></a>
+  <a href="https://github.com/BeniSpec"><img src="assets/project-fingerblood.svg" alt="FingerBlood" width="49%" /></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🧭 Journey</h2>
+
+| Status | What | Where |
+|---|---|---|
+| 🟢 **Internship** | Online Intern | CodeAlpha & DecodeLabs |
+| 🟢 **Completed** | Data Science Programme | ALX |
+| 🟣 In progress | Final Year Project: FingerBlood, explainable-AI mobile app | AIU |
+| 🟣 In progress | BSc Computer Science | Albukhary International University |
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeniSpec/BeniSpec/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeniSpec/BeniSpec/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/BeniSpec/BeniSpec/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="assets/stats.svg" alt="GitHub stats for BeniSpec" width="100%" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
