@@ -1,0 +1,29 @@
+name: Update stats card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # every day at 00:30 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the stats card
+        run: python scripts/build_stats.py
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GH_LOGIN: BeniSpec
+
+      - name: Commit the updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git diff --cached --quiet || git commit -m "chore(stats): refresh stats card"
+          git push
