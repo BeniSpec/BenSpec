@@ -98,8 +98,7 @@ open to     data / app internships · collaboration · mentoring
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=BeniSpec&show_icons=true&hide_rank=true&include_all_commits=true&border_color=2e2845&bg_color=0b0a12&title_color=c084fc&text_color=f0ecff&icon_color=a855f7" alt="GitHub stats for BeniSpec" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeniSpec&layout=compact&hide=jupyter%20notebook&border_color=2e2845&bg_color=0b0a12&title_color=c084fc&text_color=f0ecff" alt="Top languages for BeniSpec" />
+  <img src="assets/stats.svg" alt="GitHub stats for BeniSpec" width="100%" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
