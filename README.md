@@ -8,7 +8,7 @@
 -->
 
 <p align="center">
-  <img src="assets/header.svg" alt="Benat Siraj Ahmed: Computer Science Student, Data Analytics, Data Science, Data & AI-Driven Full-Stack Mobile App Developer" width="100%" />
+  <img src="assets/header.svg" alt="Benat Siraj Ahmed: Computer Science Student, Data Analytics, Data Science, Data &amp; AI-Driven Full-Stack Mobile App Developer" width="100%" />
 </p>
 
 <p align="center">
