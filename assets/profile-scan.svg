@@ -34,8 +34,8 @@
     <text class="k" x="28" y="98">name</text>     <text class="v" x="130" y="98" font-weight="700">Benat Siraj Ahmed</text>
     <text class="k" x="28" y="128">handle</text>   <text class="v" x="130" y="128">@BeniSpec</text>
     <text class="k" x="28" y="158">role</text>     <text class="v" x="130" y="158">Computer Science Student · AIU</text>
-    <text class="k" x="28" y="188">focus</text>    <text class="v" x="130" y="188" style="fill:#c084fc">Data Analytics · Data Science</text>
-    <text class="k" x="28" y="218">builds</text>   <text class="v" x="130" y="218">Data-driven end-to-end mobile apps</text>
+    <text class="k" x="28" y="188">focus</text>    <text class="v" x="130" y="188" style="fill:#c084fc">Data Analytics · Data Science · Data-driven Full stack end-to-end mobile apps</text>
+    <text class="k" x="28" y="218">builds</text>   <text class="v" x="130" y="218">Data-driven Full stack end-to-end mobile apps</text>
     <text class="k" x="28" y="248">stack</text>    <text class="v" x="130" y="248">Python · SQL · Flutter · FastAPI</text>
     <text class="k" x="28" y="278">location</text> <text class="v" x="130" y="278">Alor Setar, Malaysia</text>
     <text class="k" x="28" y="308">contact</text>  <text class="v" x="130" y="308">benatsiraj83@gmail.com</text>
