@@ -42,3 +42,22 @@ open to     data / app internships · collaboration · mentoring
 ```
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🎯 What I Focus On</h2>
+
+<p align="center">
+  <img src="assets/focus.svg" alt="Focus areas: Data Analytics, Data Science and XAI, Mobile and Full Stack" width="100%" />
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<!-- EDIT: keep only the icons for tools you can discuss in an interview -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,opencv,jupyter,powerbi&theme=dark&perline=7" alt="Data and AI tools" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,postgres,mysql,java,html,css,js&theme=dark&perline=9" alt="App and backend tools" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark&perline=5" alt="Developer tools" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
