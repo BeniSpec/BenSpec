@@ -36,7 +36,7 @@ collecting and cleaning data, analysing it, building models, and shipping them i
 $ cat now.txt
 
 building    FingerBlood · an explainable-AI mobile app (Flutter + FastAPI + OpenCV + Grad-CAM)
-interning   [EDIT: company] · [EDIT: what you do there]
+interning   Online Internships · CodeAlpha & DecodeLabs
 learning    Power BI dashboards · SQL optimisation · ML deployment
 open to     data / app internships · collaboration · mentoring
 ```
@@ -64,7 +64,7 @@ open to     data / app internships · collaboration · mentoring
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<!-- EDIT: each link opens the repo. Replace the two placeholder links (retail sales, FingerBlood) with the exact repo URLs. -->
+<!-- EDIT: Replace the retail sales and FingerBlood links with their exact repository URLs when available. -->
 <p align="center">
   <a href="https://github.com/BeniSpec/astrabivo-transit"><img src="assets/project-astrabivo-transit.svg" alt="astrabivo-transit" width="49%" /></a>
   <a href="https://github.com/BeniSpec/nyc311-operations-analysis"><img src="assets/project-nyc311-operations.svg" alt="nyc311-operations-analysis" width="49%" /></a>
@@ -78,9 +78,9 @@ open to     data / app internships · collaboration · mentoring
 
 | Status | What | Where |
 |---|---|---|
-| 🟢 **Now** | Intern: [EDIT: your role] | [EDIT: company] |
+| 🟢 **Internship** | Online Intern | CodeAlpha & DecodeLabs |
+| 🟢 **Completed** | Data Science Programme | ALX |
 | 🟣 In progress | Final Year Project: FingerBlood, explainable-AI mobile app | AIU |
-| 🟣 In progress | Data Science Fellowship | ALX |
 | 🟣 In progress | BSc Computer Science | Albukhary International University |
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
