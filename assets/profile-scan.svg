@@ -55,7 +55,7 @@
 
   <rect x="560" y="220" width="316" height="58" rx="10" fill="#13111f" stroke="#2e2845"/>
   <rect x="560" y="220" width="4" height="58" rx="2" fill="#34d399"/>
-  <text class="lab" x="580" y="242">INTERNSHIP</text><text class="val" x="580" y="264">[Decodelabs] · [Data Analytics Intern]</text>
+  <text class="lab" x="580" y="242">INTERNSHIP</text><text class="val" x="580" y="264"> Decodelabs · Data Analytics Intern</text>
 
   <rect x="560" y="290" width="316" height="58" rx="10" fill="#13111f" stroke="#2e2845"/>
   <rect x="560" y="290" width="4" height="58" rx="2" fill="#c084fc"/>
