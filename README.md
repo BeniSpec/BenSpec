@@ -73,3 +73,14 @@ open to     data / app internships · collaboration · mentoring
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🧭 Journey</h2>
+
+| Status | What | Where |
+|---|---|---|
+| 🟢 **Now** | Intern: [EDIT: your role] | [EDIT: company] |
+| 🟣 In progress | Final Year Project: FingerBlood, explainable-AI mobile app | AIU |
+| 🟣 In progress | Data Science Fellowship | ALX |
+| 🟣 In progress | BSc Computer Science | Albukhary International University |
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
