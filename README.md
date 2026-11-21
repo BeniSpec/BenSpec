@@ -61,3 +61,15 @@ open to     data / app internships · collaboration · mentoring
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<!-- EDIT: each link opens the repo. Replace the two placeholder links (retail sales, FingerBlood) with the exact repo URLs. -->
+<p align="center">
+  <a href="https://github.com/BeniSpec/astrabivo-transit"><img src="assets/project-astrabivo-transit.svg" alt="astrabivo-transit" width="49%" /></a>
+  <a href="https://github.com/BeniSpec/nyc311-operations-analysis"><img src="assets/project-nyc311-operations.svg" alt="nyc311-operations-analysis" width="49%" /></a>
+  <a href="https://github.com/BeniSpec?tab=repositories&q=retail-sales"><img src="assets/project-retail-sales.svg" alt="retail-sales-analytics" width="49%" /></a>
+  <a href="https://github.com/BeniSpec"><img src="assets/project-fingerblood.svg" alt="FingerBlood" width="49%" /></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
