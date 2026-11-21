@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Profile scan: Benat Siraj Ahmed">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#1c1830" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+    .k{fill:#9d8fc0;font-size:15px}
+    .v{fill:#f0ecff;font-size:15px}
+    .lab{fill:#9d8fc0;font-size:11px;letter-spacing:1.5px}
+    .val{fill:#f0ecff;font-size:15px;font-weight:700}
+  </style>
+
+  <rect width="900" height="360" rx="16" fill="#0b0a12"/>
+  <rect width="900" height="360" rx="16" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="899" height="359" rx="16" fill="none" stroke="#2e2845"/>
+
+  <!-- window bar -->
+  <rect x="1" y="1" width="898" height="36" rx="15" fill="#13111f"/>
+  <rect x="1" y="22" width="898" height="15" fill="#13111f"/>
+  <line x1="1" y1="37" x2="899" y2="37" stroke="#2e2845"/>
+  <circle cx="26" cy="19" r="6" fill="#ec4899"/><circle cx="46" cy="19" r="6" fill="#a855f7"/><circle cx="66" cy="19" r="6" fill="#34d399"/>
+  <text x="450" y="24" text-anchor="middle" font-size="13" fill="#9d8fc0">profile.scan  ·  @BeniSpec</text>
+  <circle cx="800" cy="19" r="4" fill="#34d399"/>
+  <text x="812" y="24" font-size="12" fill="#34d399">online</text>
+
+  <!-- left: identity -->
+  <text x="28" y="66" font-size="12" letter-spacing="2" fill="#c084fc">IDENTITY</text>
+  <g>
+    <text class="k" x="28" y="98">name</text>     <text class="v" x="130" y="98" font-weight="700">Benat Siraj Ahmed</text>
+    <text class="k" x="28" y="128">handle</text>   <text class="v" x="130" y="128">@BeniSpec</text>
+    <text class="k" x="28" y="158">role</text>     <text class="v" x="130" y="158">Computer Science Student · AIU</text>
+    <text class="k" x="28" y="188">focus</text>    <text class="v" x="130" y="188" style="fill:#c084fc">Data Analytics · Data Science</text>
+    <text class="k" x="28" y="218">builds</text>   <text class="v" x="130" y="218">Data-driven end-to-end mobile apps</text>
+    <text class="k" x="28" y="248">stack</text>    <text class="v" x="130" y="248">Python · SQL · Flutter · FastAPI</text>
+    <text class="k" x="28" y="278">location</text> <text class="v" x="130" y="278">Alor Setar, Malaysia</text>
+    <text class="k" x="28" y="308">contact</text>  <text class="v" x="130" y="308">benatsiraj83@gmail.com</text>
+  </g>
+
+  <!-- right: signal tiles -->
+  <line x1="536" y1="56" x2="536" y2="338" stroke="#2e2845"/>
+  <text x="560" y="66" font-size="12" letter-spacing="2" fill="#c084fc">SIGNAL</text>
+
+  <rect x="560" y="80" width="316" height="58" rx="10" fill="#13111f" stroke="#2e2845"/>
+  <rect x="560" y="80" width="4" height="58" rx="2" fill="#a855f7"/>
+  <text class="lab" x="580" y="102">EDUCATION</text><text class="val" x="580" y="124">BSc Computer Science · AIU</text>
+
+  <rect x="560" y="150" width="316" height="58" rx="10" fill="#13111f" stroke="#2e2845"/>
+  <rect x="560" y="150" width="4" height="58" rx="2" fill="#ec4899"/>
+  <text class="lab" x="580" y="172">FELLOWSHIP</text><text class="val" x="580" y="194">ALX Data Science Fellow</text>
+
+  <rect x="560" y="220" width="316" height="58" rx="10" fill="#13111f" stroke="#2e2845"/>
+  <rect x="560" y="220" width="4" height="58" rx="2" fill="#34d399"/>
+  <text class="lab" x="580" y="242">INTERNSHIP</text><text class="val" x="580" y="264"> Decodelabs · Data Analytics Intern</text>
+
+  <rect x="560" y="290" width="316" height="58" rx="10" fill="#13111f" stroke="#2e2845"/>
+  <rect x="560" y="290" width="4" height="58" rx="2" fill="#c084fc"/>
+  <text class="lab" x="580" y="312">FINAL YEAR PROJECT</text><text class="val" x="580" y="334">FingerBlood · Explainable AI</text>
+
+  <!-- scan line -->
+  <rect x="1" y="38" width="898" height="2" fill="#34d399" opacity=".18">
+    <animate attributeName="y" values="38;356;38" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

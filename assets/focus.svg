@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="268" viewBox="0 0 900 268" role="img" aria-label="Focus areas: Data Analytics, Data Science and Explainable AI, Mobile and Full Stack">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+    .idx{fill:#9d8fc0;font-size:12px}
+    .t{fill:#f0ecff;font-size:17px;font-weight:800}
+    .tag{fill:#9d8fc0;font-size:12px;font-style:italic}
+    .b{fill:#f0ecff;font-size:13px}
+    .flow{fill:#34d399;font-size:12px}
+    .card{fill:#13111f;stroke:#2e2845}
+  </style>
+
+  <!-- card 1 -->
+  <rect class="card" x="18" y="18" width="272" height="232" rx="14"/>
+  <rect x="34" y="18" width="240" height="3" rx="1.5" fill="url(#g)"/>
+  <text class="idx" x="38" y="50">01</text>
+  <text class="t" x="38" y="76">DATA ANALYTICS</text>
+  <text class="tag" x="38" y="96">Turn raw data into decisions</text>
+  <text class="b" x="38" y="128"><tspan fill="#a855f7">›</tspan> Python · Pandas · NumPy</text>
+  <text class="b" x="38" y="152"><tspan fill="#a855f7">›</tspan> SQL · PostgreSQL · MySQL</text>
+  <text class="b" x="38" y="176"><tspan fill="#a855f7">›</tspan> Power BI · Excel</text>
+  <text class="b" x="38" y="200"><tspan fill="#a855f7">›</tspan> EDA · Cleaning · Charts</text>
+  <line x1="38" y1="214" x2="270" y2="214" stroke="#2e2845"/>
+  <text class="flow" x="38" y="236">Clean → Analyse → Visualise</text>
+
+  <!-- card 2 -->
+  <rect class="card" x="314" y="18" width="272" height="232" rx="14"/>
+  <rect x="330" y="18" width="240" height="3" rx="1.5" fill="url(#g)"/>
+  <text class="idx" x="334" y="50">02</text>
+  <text class="t" x="334" y="76">DATA SCIENCE &amp; XAI</text>
+  <text class="tag" x="334" y="96">Models that explain themselves</text>
+  <text class="b" x="334" y="128"><tspan fill="#ec4899">›</tspan> scikit-learn · ML models</text>
+  <text class="b" x="334" y="152"><tspan fill="#ec4899">›</tspan> OpenCV · preprocessing</text>
+  <text class="b" x="334" y="176"><tspan fill="#ec4899">›</tspan> CNN · ResNet50 · ViT</text>
+  <text class="b" x="334" y="200"><tspan fill="#ec4899">›</tspan> Grad-CAM explainability</text>
+  <line x1="334" y1="214" x2="566" y2="214" stroke="#2e2845"/>
+  <text class="flow" x="334" y="236">Train → Evaluate → Explain</text>
+
+  <!-- card 3 -->
+  <rect class="card" x="610" y="18" width="272" height="232" rx="14"/>
+  <rect x="626" y="18" width="240" height="3" rx="1.5" fill="url(#g)"/>
+  <text class="idx" x="630" y="50">03</text>
+  <text class="t" x="630" y="76">MOBILE &amp; FULL STACK</text>
+  <text class="tag" x="630" y="96">From model to real app</text>
+  <text class="b" x="630" y="128"><tspan fill="#34d399">›</tspan> Flutter · Dart</text>
+  <text class="b" x="630" y="152"><tspan fill="#34d399">›</tspan> FastAPI · REST APIs</text>
+  <text class="b" x="630" y="176"><tspan fill="#34d399">›</tspan> PostgreSQL · databases</text>
+  <text class="b" x="630" y="200"><tspan fill="#34d399">›</tspan> HTML · CSS · JavaScript</text>
+  <line x1="630" y1="214" x2="862" y2="214" stroke="#2e2845"/>
+  <text class="flow" x="630" y="236">Design → Build → Ship</text>
+</svg>
