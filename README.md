@@ -1,4 +1,3 @@
-
 <!--
  HOW TO EDIT THIS PROFILE
  1. Search this file for personal details you want to update.
@@ -6,6 +5,10 @@
  3. Colours: #a855f7 purple, #ec4899 pink, #34d399 green, #0b0a12 background.
  4. Each section is separate, so you can delete or reorder one at a time.
 -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=BeniSpec&label=visitors&color=0e75b6&style=flat" alt="Profile visitors" />
+</p>
 
 <p align="center">
   <img src="assets/header.svg" alt="Benat Siraj Ahmed: Computer Science Student, Data Analytics, Data Science, Data &amp; AI-Driven Full-Stack Mobile App Developer" width="100%" />
